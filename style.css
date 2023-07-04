@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40rem;
+    width: 50rem;
+    background-color: #422146;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+    width: 45%;
+    background-color: #415456;
+    color: #89d812;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70%;
+    width: 45%;
+    background-color: #915456;
+    color: #12aad8;
+}
